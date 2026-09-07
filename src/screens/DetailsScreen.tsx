@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 const DetailsScreen: React.FC = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Details Screen</Text>
+      <Text style={styles.text}>Details Screen - Updated</Text>
     </View>
   );
 };
